@@ -1,2 +1,2 @@
 # exercises
-Some little exercises 日常练习堆放
+Some little exercises
